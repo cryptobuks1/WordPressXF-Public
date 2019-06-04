@@ -2,6 +2,6 @@
 {
     public static class Statics
     {
-        public static string WordpressUrl = "http://www.example.com/wp-json/";
+        public static string WordpressUrl = "http://svdp.sg/wp-json/";
     }
 }
